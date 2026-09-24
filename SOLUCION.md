@@ -14,7 +14,7 @@ Esta solución implementa un agente conversacional para la gestión, clasificaci
 npm install -D tsx
 
 # Ejecución de la prueba determinista de verificación
-run tsx src/demo.ts
+npx tsx src/demo.ts
 
 ### REGLAS DE NEGOCIO Y GOBERNANZA OBLIGATORIAS (RN1 - RN5)
 1. **Validación de Confianza (RN1):** Si el nivel de confianza de extracción es menor a 0.8 (< 0.8) o faltan campos obligatorios (`cliente`, `fecha_fin`, `valor`), el mensaje se clasifica como `requiere_revision`. NUNCA registres un contrato dudoso en el CSV maestro sin solicitar confirmación explícita al usuario en la sesión de chat.

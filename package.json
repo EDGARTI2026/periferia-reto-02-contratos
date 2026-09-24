@@ -1,0 +1,16 @@
+{
+  "name": "reto-02-contratos-periferia",
+  "version": "1.0.0",
+  "description": "Solución al Reto 02 - Agente conversacional Registro de Contratos Vigentes",
+  "main": "src/demo.ts",
+  "scripts": {
+    "demo": "ts-node src/demo.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

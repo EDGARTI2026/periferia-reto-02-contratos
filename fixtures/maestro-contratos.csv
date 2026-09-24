@@ -1,0 +1,6 @@
+id_contrato,cliente,objeto,valor,moneda,fecha_inicio,fecha_fin,renovacion_automatica,requiere_poliza,polizas_cumplidas,estado,origen_msg_id,fecha_registro
+CTR-FIR-2026,"FIRMADO","Contrato firmado - Industrias Delta - Implementación CRM",2026,COP,2026-08-04,2027-08-04,false,true,false,vigente,msg-001,2026-09-24T13:41:07.032Z
+CTR-COR-2026,"CORPORACIÓN ANDINA","Contrato Corporación Andina - Fábrica de software 2026-2027",2026,USD,2026-08-18,2027-08-18,false,true,false,vigente,msg-002,2026-09-24T13:41:07.036Z
+CTR-CLÍ-2026,"CLÍNICA SAN RAFAEL","RV: Contrato Clínica San Rafael - Mesa de servicio",2026,COP,2026-08-26,2027-08-26,false,false,false,vigente,msg-004,2026-09-24T13:41:07.040Z
+CTR-UNI-2026,"UNIVERSIDAD DEL VALLE DEL RÍO","Cotización propuesta Universidad - ampliación fábrica",2026,COP,2026-08-27,2027-08-27,false,false,false,vigente,msg-005,2026-09-24T13:41:07.042Z
+CTR-DIS-2026,"DISTRIBUIDORA CARIBE","Contrato marco Distribuidora Caribe",2026,COP,2026-08-31,2027-08-31,false,true,false,vigente,msg-006,2026-09-24T13:41:07.045Z

@@ -36,15 +36,15 @@ Para probar la lógica de las herramientas, el cálculo de confianza y la genera
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/EDGARTI2026/periferia-reto-02-contratos.git](https://github.com/EDGARTI2026/periferia-reto-02-contratos.git)
+&#x20;  git clone https://github.com/EDGARTI2026/periferia-reto-02-contratos.git
 
 &#x20;  cd periferia-reto-02-contratos
 
 
 
-\### Se usó npm install -D tsx
+\### Se usó npm install -D tsx desde línea de comandos
 
-\### Se usó run tsx src/demo.ts
+\### Se usó npx tsx src/demo.ts desde powershell
 
 
 
